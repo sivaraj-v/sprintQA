@@ -1,0 +1,17 @@
+{
+    "projectName": "sprintQA",
+    "username": "sivaraj.v@ef.com.lang.sprintqa",
+    "id": "1bb0ad50-e0b7-11e7-9921-9b63220e6f3b",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ef--SprintQA.cs88.my.salesforce.com",
+    "workspace": "C:\\Users\\sivaraj.v\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
